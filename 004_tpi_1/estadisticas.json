@@ -1,0 +1,97 @@
+{
+    "estadisticas_generales": {
+        "Total de documentos": 6,
+        "Total de oraciones": 1064,
+        "Total de tokens": 23674,
+        "Vocabulario (lemas únicos)": 3688
+    },
+    "entidades": {
+        "ORG": {
+            "IA": 59,
+            "Inteligencia": 11,
+            "PLN": 10,
+            "ACM": 7,
+            "Google": 6,
+            "Amazon": 4,
+            "OMPI": 3,
+            "Consultado": 3,
+            "MELI": 3,
+            "Bloomberg": 3
+        },
+        "MISC": {
+            "Consultado": 45,
+            "Norvig": 22,
+            "IA": 14,
+            "Inteligencia Artificial": 13,
+            "ChatGPT": 9,
+            "Sin embargo": 7,
+            "La IA": 5,
+            "Archivado": 5,
+            "OpenAI": 4,
+            "Internet": 4
+        },
+        "PER": {
+            "Russell": 21,
+            "Szarfsztejn": 14,
+            "Goebel": 10,
+            "Galperin": 9,
+            "Turing": 7,
+            "Stubblefield": 6,
+            "John McCarthy": 5,
+            "Ariel Szarfsztejn": 4,
+            "Ariel": 4,
+            "Alan Turing": 3
+        },
+        "LOC": {
+            "Mercado Libre": 26,
+            "Szarfsztejn": 8,
+            "Mackworth": 6,
+            "Mercado Pago": 6,
+            "Archivado": 5,
+            "IGA": 4,
+            "Ameca": 4,
+            "Consultado": 4,
+            "New York": 4,
+            "España": 3
+        }
+    },
+    "verbos_principales": {
+        "utilizar": 27,
+        "desarrollar": 26,
+        "permitir": 24,
+        "aprender": 20,
+        "mejorar": 15,
+        "tomar": 15,
+        "resolver": 14,
+        "incluir": 14,
+        "ayudar": 14,
+        "generar": 13,
+        "comenzar": 13,
+        "encontrar": 12,
+        "ver": 12,
+        "tratar": 11,
+        "mostrar": 11
+    },
+    "palabras_clave": {
+        "artificial": 167,
+        "inteligencia": 152,
+        "IA": 117,
+        "humano": 97,
+        "consultado": 76,
+        "sistema": 68,
+        "lenguaje": 48,
+        "aprendizaje": 48,
+        "dato": 48,
+        "robot": 46,
+        "Artificial": 41,
+        "Mercado": 41,
+        "pp": 40,
+        "inglés": 39,
+        "máquina": 39,
+        "natural": 35,
+        "1998": 33,
+        "año": 32,
+        "problema": 32,
+        "capacidad": 31
+    }
+}
